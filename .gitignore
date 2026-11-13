@@ -1,0 +1,28 @@
+# Benchmark harness, raw datasets, and run outputs — large; not part of the app.
+# Kept locally for evaluation; excluded from the public repo on purpose.
+benchmark/
+
+# Node / build (the app has no build step; kept for future tooling)
+node_modules/
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local-only scratch
+*.local
