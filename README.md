@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.png" width="200" alt="SniffTest logo"></p>
 
-# 🐽 SniffTest — does it pass the sniff test?
+# 🐶 SniffTest — does it pass the sniff test?
 
 **Local AI scam & manipulation radar.** Paste any suspicious SMS, DM, email, job offer or
 listing → instant verdict with probability receipts, explained in 16 languages.
